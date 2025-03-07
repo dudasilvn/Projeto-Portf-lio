@@ -1,4 +1,3 @@
-# Projeto-Portfólio
 # Portfólio 💻🚀  
 
 Este repositório contém o código-fonte do portfólio profissional de Maria, desenvolvido como parte de um desafio de aprendizado e prática de desenvolvimento web.  
@@ -10,11 +9,6 @@ Este repositório contém o código-fonte do portfólio profissional de Maria, d
 ## 📌 Tecnologias Utilizadas  
 - HTML  
 - CSS  
-
-## 🔧 Próximas Implementações  
-- Seção "Meus serviços"  
-- Formulário 
-- Projetos realizados
 
 ## 💡 Sobre o Desafio  
 Este projeto faz parte de um desafio proposto por uma amiga programadora experiente, com o objetivo de aprimorar minhas habilidades em desenvolvimento web.  
