@@ -97,8 +97,116 @@ a{
 #headerClientText{
     font-family: Poppins;
     font-style: normal;
-    font-weight: 600;
     font-size: 16px;
     line-height: 24px;
     color: #070f18;
+}
+
+h1.black{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    margin-top: 0;
+    color: #000000;
+}
+
+h2.red{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #db2525;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+
+#services .textCenter h3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #070f18;
+}
+
+#services .textCenter p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    color: #575455;
+}
+
+#contactImg img{
+    width: 100%;
+}
+
+#contactForm{
+    margin-left: 75px;
+    text-align: left;
+}
+
+#contact{
+    margin-top: 100px;
+}
+
+#text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    color: #575455;
+}
+
+#contactForm input{
+    background: #F5f6FB;
+    border-radius: 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #575455;
+    border: 0;
+    width: 70%;
+    padding: 15px 30px 15px 30px;
+}
+
+#contactForm button{
+    background: #1F7CFF;
+    border-radius: 50px;
+    padding: 15px 30px 15px 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+    border: 0;
+    margin: 15px;
+}
+
+
+#portfolioTitle{
+    margin-top: 150px;
+}
+
+.portfolioImg img{
+    width: 100%;
+}
+
+.portfolioImg{
+    padding: 20px;
 }
